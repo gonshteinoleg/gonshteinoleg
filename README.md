@@ -19,12 +19,6 @@
 - Greenplum, ClickHouse: fundamentals
 
 
-## 💻 In the plans:
-
-- record 📹 lessons: [youtube.com/gonshteinoleg](https://www.youtube.com/channel/UCE3YFlYuR_9VmaWxEGYED3Q)
-- write 📙 blog posts: [medium.com/gonshteinoleg](https://medium.com/@gonshteinoleg)
-
-
 ## 📫 How to reach me:
 
 - 👽 [t.me/honstein](https://t.me/honstein)
